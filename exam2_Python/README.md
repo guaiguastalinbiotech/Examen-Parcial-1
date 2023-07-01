@@ -11,11 +11,11 @@ Examen parcial II de Bioinformática.
 
 ## DATOS DEL EQUIPO
 
-| Nombre del Dispositivo|  DESKTOP-LKEFEJE | 
+| Nombre del Dispositivo|  StalinPC | 
 | --- | ----| 
-| Procesador  |  Intel(R) Core(TM) i3-1005G1 CPU @ 1.20GHz   1.19 GHz |
-| RAM instalada |  12,0 GB (11,7 GB utilizable) |
-Id. del  producto |  00356-02309-56986-AAOEM | 
+| Procesador  |  AMD Ryzen 7 4700U with Radeon Graphics  2.00 GHz |
+| RAM instalada |  16,0 GB (15,4 GB usable) |
+Id. del  producto |  D2E5E2ED-821A-4641-998F-89DCB96A9760 | 
 | Tipo de sistema |  Sistema operativo de 64 bits, procesador x64 |
 
 
